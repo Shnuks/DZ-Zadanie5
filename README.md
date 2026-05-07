@@ -1,4 +1,6 @@
 # Домашнее задание к занятию 5
 <h2>Fork проекта находится по ссылке https://github.com/Shnuks/shvirtd-example-python.git</h2>
-<h1>Задача 1</h1>
+<h1>Задача 0</h1>
 <h3>Решение</h3>
+<img width="549" height="132" alt="image" src="https://github.com/user-attachments/assets/a32eb941-f54d-430a-a15b-82119f67078f" />
+<h1>Задача 1</h1>
