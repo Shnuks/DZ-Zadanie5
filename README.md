@@ -4,3 +4,4 @@
 <h3>Решение</h3>
 <img width="549" height="132" alt="image" src="https://github.com/user-attachments/assets/a32eb941-f54d-430a-a15b-82119f67078f" />
 <h1>Задача 1</h1>
+<img width="1419" height="212" alt="image" src="https://github.com/user-attachments/assets/2eaad62e-cb85-4b84-af7a-c831eeeedbf4" />
