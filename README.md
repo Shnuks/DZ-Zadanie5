@@ -35,10 +35,25 @@ docker compose up -d
 echo "Успешно!!!"
 </pre>
 
+<h1>Задача 5</h1>
+
+
 
 <h1>Задача 6</h1>
+<h3>Скачивание образа</h3>
 <img width="739" height="293" alt="image" src="https://github.com/user-attachments/assets/a9f2bcbc-f104-4a03-b7f8-1de32ee1f417" />
-...
+<h3>Поиск с помощью dive</h3>
 <img width="1920" height="1050" alt="image" src="https://github.com/user-attachments/assets/f9701371-bb72-4f42-a830-98aba979a3a5" />
-...
+<h3>Сохраниние бинарника на локальной вм с помощью docker save</h3>
 <img width="887" height="893" alt="image" src="https://github.com/user-attachments/assets/c86a7562-7631-4851-90fa-e405d11911a4" />
+
+<h1>Задача 6.1</h1>
+<img width="1182" height="536" alt="image" src="https://github.com/user-attachments/assets/0cb004be-40d3-433e-a406-c1a400a3b73f" />
+
+
+
+
+
+
+
+
