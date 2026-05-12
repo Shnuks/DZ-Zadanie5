@@ -36,5 +36,9 @@ echo "Успешно!!!"
 </pre>
 
 
-
-<h1>Доделываю</h1>
+<h1>Задача 6</h1>
+<img width="739" height="293" alt="image" src="https://github.com/user-attachments/assets/a9f2bcbc-f104-4a03-b7f8-1de32ee1f417" />
+...
+<img width="1920" height="1050" alt="image" src="https://github.com/user-attachments/assets/f9701371-bb72-4f42-a830-98aba979a3a5" />
+...
+<img width="887" height="893" alt="image" src="https://github.com/user-attachments/assets/c86a7562-7631-4851-90fa-e405d11911a4" />
