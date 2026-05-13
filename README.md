@@ -43,6 +43,12 @@ echo "Успешно!!!"
 <h4>Появилась ошибка в доступности, сам не разобрался с чем связано</h4>
 <img width="1202" height="581" alt="изображение" src="https://github.com/user-attachments/assets/61ed8c21-922a-4bd6-9a20-220da38f498a" />
 <img width="863" height="908" alt="изображение" src="https://github.com/user-attachments/assets/828864c2-5ec7-40f6-b0fc-fe8db96c8281" />
+<h3>При ручном разворачивании</h3>
+<img width="1267" height="279" alt="изображение" src="https://github.com/user-attachments/assets/6fb669c5-705a-4d4c-b1c3-db14dc397581" />
+<img width="857" height="552" alt="изображение" src="https://github.com/user-attachments/assets/59cf18be-bfa2-42a5-b776-b6dbc66ac4b6" />
+
+
+
 
 <h1>Задача 6</h1>
 <h3>Скачивание образа</h3>
