@@ -12,6 +12,10 @@ fork создан; добавлены Dockerfile.python, .dockerignore билд 
 <img width="412" height="171" alt="image" src="https://github.com/user-attachments/assets/1a7299cb-35f9-4aa2-a9a3-d23f27424853" />
 
 <h1>Задача 4</h1>
+<h3>Созданная ВМ</h3>
+<img width="1841" height="268" alt="изображение" src="https://github.com/user-attachments/assets/9750f4a0-c838-4e8a-bbe4-06e44592f2f7" />
+
+
 <pre>
 #!/bin/bash
 
@@ -34,6 +38,8 @@ docker compose up -d
 
 echo "Успешно!!!"
 </pre>
+<img width="1014" height="814" alt="изображение" src="https://github.com/user-attachments/assets/73449f29-4af3-4a5a-8040-ab8835d34a54" />
+<img width="1100" height="493" alt="изображение" src="https://github.com/user-attachments/assets/d5574528-d44c-4b61-bc8f-c320e6892723" />
 
 
 <h1>Задача 6</h1>
