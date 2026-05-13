@@ -40,7 +40,9 @@ echo "Успешно!!!"
 </pre>
 <img width="1014" height="814" alt="изображение" src="https://github.com/user-attachments/assets/73449f29-4af3-4a5a-8040-ab8835d34a54" />
 <img width="1100" height="493" alt="изображение" src="https://github.com/user-attachments/assets/d5574528-d44c-4b61-bc8f-c320e6892723" />
-
+<h4>Появилась ошибка в доступности, сам не разобрался с чем связано</h4>
+<img width="1202" height="581" alt="изображение" src="https://github.com/user-attachments/assets/61ed8c21-922a-4bd6-9a20-220da38f498a" />
+<img width="863" height="908" alt="изображение" src="https://github.com/user-attachments/assets/828864c2-5ec7-40f6-b0fc-fe8db96c8281" />
 
 <h1>Задача 6</h1>
 <h3>Скачивание образа</h3>
